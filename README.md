@@ -3,7 +3,7 @@
 ### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">
 
 <p align="center">
-    <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
+    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
     <a href="dehami.deshan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
     <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
     <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
