@@ -1,6 +1,6 @@
-## Hey there <img src="https://raw.githubusercontent.com/deshankoswatte/deshankoswatte/assets/hi.gif" width="40px"/> I'm Deshan Koswatte</a>. Happy to see you.
+## Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px"/> I'm Deshan Koswatte</a>. Happy to see you.
 
-### 📫 Connect with me <img src="https://raw.githubusercontent.com/deshankoswatte/deshankoswatte/assets/handshake.gif" height="30px">
+### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">
 
 <p align="center">
     <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
@@ -13,8 +13,8 @@
 
 ---
 ### 🤵 About Me:
-<p align="right">
-  <img align="middle" src="https://raw.githubusercontent.com/deshankoswatte/deshankoswatte/assets/programmer.gif" width="310px" alt="programmergif">
+<p align="middle">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="310px" alt="programmergif">
 </p>
 
 - TODO
