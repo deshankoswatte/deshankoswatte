@@ -1,20 +1,20 @@
-## Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px"/> I'm Deshan Koswatte</a>. Happy to see you.
+<h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px"/> I'm Deshan Koswatte</a>. Happy to see you.</h1>
 
 ### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">
 
 <p align="center">
-    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
-    <a href="dehami.deshan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
-    <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
-    <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
-    <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deshan_koswatte" height="30" width="30" /></a>&nbsp;
-    <a href="https://www.buymeacoffee.com/"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="dehami.deshan@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
+    <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
+    <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="https://www.buymeacoffee.com/"><img align="center" alt="Buy me a Coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" height="40" width="40" /></a>
 </p>
 
 ---
 ### 🤵 About Me:
 <p align="middle">
-  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="310px" alt="programmergif">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="450px" alt="programmergif">
 </p>
 
 - TODO
