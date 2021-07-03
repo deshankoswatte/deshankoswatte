@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on _**Deep Learning, Hashing, and Natural Language Processing**_.
 - 🌱 I’m currently learning _**Faiss, PyTorch, and React**_.
 - 📚 I've studied _**BEng (Hons) Software Engineering at University of Westminster, UK**_.
-- 🏢 I'm currently employed as a _**Software Engineer at ?**_. 
+- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_. 
 - 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_.
 - 🤔 I’m looking for help with _**Development-Operations related work**_.
 - 💬 Ask me about _**Angular, Java, and Python**_. 
