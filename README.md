@@ -67,7 +67,7 @@
   <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox" />
 </p>
 
-#### :superhero_man: Visitors Count:
+#### <i>:superhero_man: Visitors Count:</i>
 
 ![VisitorCount](https://profile-counter.glitch.me/{deshankoswatte}/count.svg)
 
