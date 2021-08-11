@@ -1,35 +1,38 @@
-<h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px"/> I'm Deshan Koswatte</a>. Happy to see you.</h1>
+<h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px" alt="hi_gif"/> I'm Deshan Koswatte. Happy to see you.</h1>
 
 ### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">:
 
 <p align="center">
-    <a href="dehami.deshan@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
-    <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
-    <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
-    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
-    <a href="https://stackoverflow.com/users/11383375/deshan-koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
-    <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="mailto:dehami.deshan@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
+    <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte_twitter" height="45" width="45" /></a>&nbsp;
+    <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte_linkedin" height="40" width="40" /></a>&nbsp;
+    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte_medium" height="40" width="40" /></a>&nbsp;
+    <a href="https://stackoverflow.com/users/11383375/deshan-koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deshan_koswatte_stackoverflow" height="40" width="40" /></a>&nbsp;
+    <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="deshan_koswatte_facebook" height="40" width="40" /></a>&nbsp;
     <a href="https://www.buymeacoffee.com/"><img align="center" alt="Buy me a Coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" height="40" width="40" /></a>
 </p>
 
 ---
+
 ### 🤵 About Me:
+
 <p align="middle">
-  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmergif">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmer_gif">
 </p>
 
 - 🔭 I’m currently working on _**Deep Learning, Hashing, and Natural Language Processing**_.
 - 🌱 I’m currently learning _**Faiss, PyTorch, and React**_.
-- 📚 I've studied _**BEng (Hons) Software Engineering at University of Westminster, UK**_.
-- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_. 
+- 📚 I've studied _**B.Eng. (Hons) Software Engineering at University of Westminster, UK**_.
+- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_.
 - 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_.
 - 🤔 I’m looking for help with _**Development-Operations related work**_.
-- 💬 Ask me about _**Angular, Java, and Python**_. 
+- 💬 Ask me about _**Angular, Java, and Python**_.
 - 📫 How to reach me: _**Refer to connect with me section above**_.
 - 😄 Pronouns: _**Any suggestions would be welcome...**_
 - ⚡ Fun fact: _**I've used to swim 🏊**_.
 
 #### <i>:toolbox: Tools & Technologies I've Used:</i>
+
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
@@ -43,19 +46,29 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bashshell" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="ipynb" width="45" height="45"/> 
 </p>
 
 ---
-### ⚡ My Github stats:
+
+### :closed_book: Checkout My Blogs:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ My GitHub Stats:
+
 <p align="center">
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox" />
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox" />
+  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox" />
+  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox" />
 </p>
 
-**:superhero_man: Visitors Count:**  
+#### <i>:superhero_man: Visitors Count:</i>
+
 ![VisitorCount](https://profile-counter.glitch.me/{deshankoswatte}/count.svg)
 
 <!--
