@@ -3,10 +3,11 @@
 ### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">
 
 <p align="center">
-    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
     <a href="dehami.deshan@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
     <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte" height="45" width="45" /></a>&nbsp;
     <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
+    <a href="https://stackoverflow.com/users/11383375/deshan-koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
     <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="deshan_koswatte" height="40" width="40" /></a>&nbsp;
     <a href="https://www.buymeacoffee.com/"><img align="center" alt="Buy me a Coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" height="40" width="40" /></a>
 </p>
