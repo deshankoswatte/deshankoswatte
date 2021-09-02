@@ -16,19 +16,33 @@
 
 ### 🤵 About Me:
 
+[comment]: <> (<p align="middle">)
+
+[comment]: <> (  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmer_gif">)
+
+[comment]: <> (</p>)
+
 <p align="middle">
-  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmer_gif">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/dev/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/dev/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
 </p>
 
-- 🔭 I’m currently working on _**Deep Learning, Hashing, and Natural Language Processing**_.
-- 🌱 I’m currently learning _**Faiss, PyTorch, and React**_.
-- 📚 I've studied _**B.Eng. (Hons) Software Engineering at University of Westminster, UK**_.
-- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_.
-- 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_.
-- 🤔 I’m looking for help with _**Development-Operations related work**_.
+- 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
+  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms_. The work was
+  published in the _10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(
+  SLTC), Sri Lanka_.
+- 🌱 I’m currently learning and mastering _**Faiss, PyTorch, and React**_.
+- 📚 I've studied _**B.Eng. (Hons) Software Engineering at the University of Westminster, UK :gb:**_ which is affiliated
+  with the _Informatics Institute of Technology, Sri Lanka :sri_lanka:_.
+- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_. I've also had previously _completed my one-year
+  mandatory internship in the same company_.
+- 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_. The goal of
+  collaborating is to improve my skills and help others which in turn would _make this :earth_asia: a better place_.
+- 🤔 I’m looking for help with the _**Development-Operations paradigm**_. _Especially, on Docker :whale: and
+  Kubernetes :wheel_of_dharma:_ since they would be a great addition to my arsenal :shield:.
 - 💬 Ask me about _**Angular, Java, and Python**_.
-- 📫 How to reach me: _**Refer to connect with me section above**_.
-- 😄 Pronouns: _**Any suggestions would be welcome...**_
+- 📫 How to reach me: _**You can refer to the decorated connect with me 📫 section above**_.
+- 😄 Pronouns: _**Any suggestions would be welcome as long as suits :necktie: me 🤵...**_
 - ⚡ Fun fact: _**I've used to swim 🏊**_.
 
 #### <i>:toolbox: Tools & Technologies I've Used:</i>
