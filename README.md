@@ -23,8 +23,8 @@
 [comment]: <> (</p>)
 
 <p align="middle">
-  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/dev/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
-  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/dev/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
+  <img align="middle" src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
 </p>
 
 - 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
