@@ -4,6 +4,7 @@
 
 <p align="center">
     <a href="mailto:dehami.deshan@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
+    <a href="https://deshankoswatte.github.io" target="blank"><img align="center" src="https://api.iconify.design/emojione-v1/globe-showing-asia-australia.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
     <a href="https://twitter.com/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte_twitter" height="45" width="45" /></a>&nbsp;
     <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte_linkedin" height="40" width="40" /></a>&nbsp;
     <a href="https://medium.com/@deshankoswatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte_medium" height="40" width="40" /></a>&nbsp;
@@ -81,11 +82,13 @@
 ### :closed_book: Checkout My Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Quick Start Guide — SDKMAN](https://medium.com/@deshankoswatte/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
 - [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://medium.com/@deshankoswatte/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
 - [Glimpse of the new WS-Federation is WSO2 Identity Server](https://medium.com/@deshankoswatte/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
 - [Quick Test WS-Trust with WSO2 Identity Server](https://medium.com/@deshankoswatte/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
 - [Setting up a SAML2 Bearer Assertion Profile for OAuth 2.0 using WSO2 IS (The HARD WAY)](https://medium.com/@deshankoswatte/setting-up-a-saml2-bearer-assertion-profile-for-oauth-2-0-using-wso2-is-the-hard-way-530a2146e683?source=rss-56911829187b------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 #### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
