@@ -29,9 +29,8 @@
 </p>
 
 - 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
-  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms_. The work was
-  published in the _10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(
-  SLTC), Sri Lanka_.
+  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing_. The work was
+  published in the _10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(SLTC), Sri Lanka_.
 - 🌱 I’m currently learning and mastering _**Faiss, PyTorch, and React**_.
 - 📚 I've studied _**B.Eng. (Hons) Software Engineering at the University of Westminster, UK :gb:**_ which is affiliated
   with the _Informatics Institute of Technology, Sri Lanka :sri_lanka:_.
@@ -79,7 +78,7 @@
 
 ---
 
-### :closed_book: Checkout My Blogs:
+### 📝 Checkout My Blogs:
 
 <!-- BLOG-POST-LIST:START -->
 - [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://medium.com/@deshankoswatte/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
@@ -90,6 +89,23 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
+
+---
+
+### 📌 Extra Information: 
+
+#### <i>🏅 Certifications:</i>
+
+- [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/DEVMLY)
+- [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/DEVMLY)
+
+#### <i>🎥 Latest Youtube Videos, 🎬 Screencasts, & 📺 Webinars:</i>
+
+- _🚧 Work in progress. Sorry for the inconvenience._ 
+
+#### <i>:label: Public Slides:</i>
+
+- _🚧 Work in progress. Sorry for the inconvenience._
 
 ---
 
