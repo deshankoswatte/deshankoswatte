@@ -38,8 +38,7 @@
   the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_ which is affiliated with
   the _[Informatics Institute of Technology, Sri Lanka](https://www.iit.ac.lk/) :sri_lanka:_.
 - 🏢 I'm currently employed as a _**Software Engineer at [WSO2](https://wso2.com/about/team/dehami-koswatte/)**_. I've
-  also had previously _
-  completed my one-year mandatory internship in the same company_.
+  also had previously _completed my one-year mandatory internship in the same company_.
 - 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_. The goal of
   collaborating is to improve my skills and help others which in turn would _make this :earth_asia: a better place_.
 - 🤔 I’m looking for help with the _**Development-Operations paradigm**_. _Especially, on Docker :whale: and
