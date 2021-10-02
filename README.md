@@ -29,13 +29,17 @@
 </p>
 
 - 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
-  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing_. The work was
-  published in the _10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(SLTC), Sri Lanka_.
+  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing_
+  . The work was published in
+  the _[10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(SLTC), Sri Lanka](https://spsr.sltc.ac.lk/events/iciafs-2021/)_
+  .
 - 🌱 I’m currently learning and mastering _**Faiss, PyTorch, and React**_.
-- 📚 I've studied _**B.Eng. (Hons) Software Engineering at the University of Westminster, UK :gb:**_ which is affiliated
-  with the _Informatics Institute of Technology, Sri Lanka :sri_lanka:_.
-- 🏢 I'm currently employed as a _**Software Engineer at WSO2**_. I've also had previously _completed my one-year
-  mandatory internship in the same company_.
+- 📚 I've studied _**B.Eng. (Hons) Software Engineering at
+  the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_ which is affiliated with
+  the _[Informatics Institute of Technology, Sri Lanka](https://www.iit.ac.lk/) :sri_lanka:_.
+- 🏢 I'm currently employed as a _**Software Engineer at [WSO2](https://wso2.com/about/team/dehami-koswatte/)**_. I've
+  also had previously _
+  completed my one-year mandatory internship in the same company_.
 - 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_. The goal of
   collaborating is to improve my skills and help others which in turn would _make this :earth_asia: a better place_.
 - 🤔 I’m looking for help with the _**Development-Operations paradigm**_. _Especially, on Docker :whale: and
@@ -81,18 +85,20 @@
 ### 📝 Checkout My Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://medium.com/@deshankoswatte/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
 - [Quick Start Guide — SDKMAN](https://medium.com/@deshankoswatte/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
 - [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://medium.com/@deshankoswatte/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
 - [Glimpse of the new WS-Federation is WSO2 Identity Server](https://medium.com/@deshankoswatte/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
 - [Quick Test WS-Trust with WSO2 Identity Server](https://medium.com/@deshankoswatte/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 #### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
 
 ---
 
-### 📌 Extra Information: 
+### 📌 Extra Information:
 
 #### <i>🏅 Certifications:</i>
 
@@ -101,7 +107,7 @@
 
 #### <i>🎥 Latest Youtube Videos, 🎬 Screencasts, & 📺 Webinars:</i>
 
-- _🚧 Work in progress. Sorry for the inconvenience._ 
+- _🚧 Work in progress. Sorry for the inconvenience._
 
 #### <i>:label: Public Slides:</i>
 
