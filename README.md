@@ -1,12 +1,12 @@
-<div style="margin: 0 auto; text-align: center">
-  <h1>Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px" alt="hi_gif"/>,
+<div>
+  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px" alt="hi_gif"/>,
   I'm Deshan Koswatte. Happy to see you!</h1>
 </div>
 
 ### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">:
 
-<div style="margin: 0 auto; text-align: center">
-  <p>
+<div>
+  <p align="center">
       <a href="mailto:dehami.deshan@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
       <a href="https://deshankoswatte.github.io" target="blank"><img src="https://api.iconify.design/emojione-v1/globe-showing-asia-australia.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
       <a href="https://twitter.com/deshankoswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte_twitter" height="45" width="45" /></a>&nbsp;
@@ -23,15 +23,15 @@
 ### 🤵 About Me:
 
 <!--
-<div style="margin: 0 auto; text-align: center">
-  <p>
+<div>
+  <p align="center">
     <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmer_gif">
   </p>
 </div>
 -->
 
-<div style="margin: 0 auto; text-align: center">
-  <p>
+<div>
+  <p align="center">
     <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
     <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
   </p>
@@ -59,8 +59,8 @@
 
 #### <i>:toolbox: Tools & Technologies I've Used:</i>
 
-<div style="margin: 0 auto; text-align: center">
-  <p>
+<div>
+  <p align="center">
       <a href="https://www.java.com/en/" target="blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/></a>
       <a href="https://www.python.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
       <a href="https://dev.w3.org/html5/html-author/" target="blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a>
@@ -127,8 +127,8 @@
 
 ### ⚡ My GitHub Stats:
 
-<div style="margin: 0 auto; text-align: center"> 
-  <p>
+<div> 
+  <p align="center">
     <img alt="deshankoswatte_github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
     <img alt="deshankoswatte_mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox&hide_border=true" />
   </p>
