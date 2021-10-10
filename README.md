@@ -95,11 +95,13 @@
 ### 📝 Checkout My Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://medium.com/@deshankoswatte/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
 - [Quick Start Guide — SDKMAN](https://medium.com/@deshankoswatte/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
 - [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://medium.com/@deshankoswatte/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
 - [Glimpse of the new WS-Federation is WSO2 Identity Server](https://medium.com/@deshankoswatte/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
 - [Quick Test WS-Trust with WSO2 Identity Server](https://medium.com/@deshankoswatte/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 #### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
@@ -107,6 +109,10 @@
 ---
 
 ### 📌 Extra Information:
+
+<!--<details>
+<summary><b><i>Please Expand to See Extra Information</i></b></summary>
+</details>-->
 
 #### <i>🏅 Certifications:</i>
 
@@ -130,7 +136,15 @@
     <img alt="deshankoswatte_github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
     <img alt="deshankoswatte_mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox&hide_border=true" />
   </p>
-  <!--<img alt="deshankoswatte_github_streak_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />-->
+  <details>
+    <summary>
+      <b><i>Please Expand to See Extra GitHub Stats</i></b>
+    </summary>
+    <p align="center">
+      <img alt="deshankoswatte_github_streak_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img alt="deshankoswatte_github_weekly_stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=gruvbox&hide_border=true" />
+    </p>
+  </details>
 </div>
 
 #### <i>:superhero_man: Visitors Count:</i>
