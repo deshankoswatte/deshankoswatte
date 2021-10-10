@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/hi.gif" width="40px" alt="hi_gif"/>,
+  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/hi.gif" width="40px" alt="hi_gif"/>,
   I'm Deshan Koswatte. Happy to see you!</h1>
 </div>
 
-### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/handshake.gif" height="30px">:
+### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/handshake.gif" height="30px">:
 
 <div>
   <p align="center">
@@ -25,15 +25,15 @@
 <!--
 <div>
   <p align="center">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/programmer.gif" width="400px" alt="programmer_gif">
+    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/programmer.gif" width="400px" alt="programmer_gif">
   </p>
 </div>
 -->
 
 <div>
   <p align="center">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/master/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
+    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
+    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
   </p>
 </div>
 
