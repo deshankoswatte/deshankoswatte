@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/hi.gif" width="40px" alt="hi_gif"/>,
+  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/hi.gif" width="35px" height="35px" alt="hi_gif"/>,
   I'm Deshan Koswatte. Happy to see you!</h1>
 </div>
 
@@ -131,8 +131,8 @@
 
 <div> 
   <p align="center">
-    <img alt="deshankoswatte_github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img alt="deshankoswatte_mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox&hide_border=true" />
+    <img height="180em" alt="deshankoswatte_github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img height="180em" alt="deshankoswatte_mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox&hide_border=true" />
   </p>
   <details>
     <summary>
