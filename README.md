@@ -38,7 +38,8 @@
 </div>
 
 - 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
-  undergraduate research project named _Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing_
+  undergraduate research project
+  named _[Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing](https://ieeexplore.ieee.org/document/9606030)_
   . The work was published in
   the _[10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(SLTC), Sri Lanka](https://spsr.sltc.ac.lk/events/iciafs-2021/)_
   .
@@ -95,11 +96,13 @@
 ### 📝 Checkout My Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://deshankoswatte.medium.com/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
 - [Quick Start Guide — SDKMAN](https://deshankoswatte.medium.com/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
 - [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://deshankoswatte.medium.com/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
 - [Glimpse of the new WS-Federation is WSO2 Identity Server](https://deshankoswatte.medium.com/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
 - [Quick Test WS-Trust with WSO2 Identity Server](https://deshankoswatte.medium.com/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 #### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
