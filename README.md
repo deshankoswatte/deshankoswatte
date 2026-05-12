@@ -1,166 +1,106 @@
-<div>
-  <h1 align="center">Hey there <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/hi.gif" width="35px" height="35px" alt="hi_gif"/>,
-  I'm Deshan Koswatte. Happy to see you!</h1>
-</div>
+<div align="center">
 
-### 📫 Connect with me <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/handshake.gif" height="30px">:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b6ca8,100:00b4d8&height=200&section=header&text=Dehami%20Koswatte&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Technical%20Lead%20%7C%20IAM%20Specialist%20%7C%20Colombo%2C%20Sri%20Lanka&descAlignY=58&descColor=caf0f8" width="100%"/>
 
-<div>
-  <p align="center">
-      <a href="mailto:dehami.deshan@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
-      <a href="https://deshankoswatte.github.io" target="blank"><img src="https://api.iconify.design/emojione-v1/globe-showing-asia-australia.svg" alt="deshan_koswatte_mail" height="45" width="45" /></a>&nbsp;
-      <a href="https://twitter.com/deshankoswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="deshan_koswatte_twitter" height="45" width="45" /></a>&nbsp;
-      <a href="https://lk.linkedin.com/in/deshankoswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deshan_koswatte_linkedin" height="40" width="40" /></a>&nbsp;
-      <a href="https://medium.com/@deshankoswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="deshan_koswatte_medium" height="40" width="40" /></a>&nbsp;
-      <a href="https://stackoverflow.com/users/11383375/deshan-koswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deshan_koswatte_stackoverflow" height="40" width="40" /></a>&nbsp;
-      <a href="https://www.facebook.com/dehami.koswatte" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="deshan_koswatte_facebook" height="40" width="40" /></a>&nbsp;
-      <a href="https://www.buymeacoffee.com/deshankoswatte"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" alt="deshan_koswatte_buy_me_a_coffee" height="40" width="40" /></a>
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Associate+Technical+Lead+%40+WSO2;Identity+%26+Access+Management+Specialist;Open+Source+Contributor;IEEE+Published+Researcher)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🤵 About Me:
+### 🧑‍💻 About Me
 
-<!--
-<div>
-  <p align="center">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/programmer.gif" width="400px" alt="programmer_gif">
-  </p>
-</div>
--->
+I'm an Associate Technical Lead at [WSO2](https://wso2.com) based in Colombo, Sri Lanka, specialising in **Identity & Access Management**. I hold a B.Eng. (Hons) in Software Engineering from the University of Westminster 🇬🇧, affiliated with the Informatics Institute of Technology, Sri Lanka 🇱🇰.
 
-<div>
-  <p align="center">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/fun_programmer_1.gif" width="400px" alt="fun_programmer_gif_1">
-    <img src="https://github.com/deshankoswatte/deshankoswatte/blob/main/assets/fun_programmer_2.gif" width="400px" alt="fun_programmer_gif_2">
-  </p>
-</div>
+My [IEEE-published research](https://ieeexplore.ieee.org/document/9606030) on duplicate question detection using Deep Learning, Semantic Hashing, and NLP was presented at the ICIAfS 2021 Conference.
 
-- 🔭 I've recently worked on _**Deep Learning, Hashing, and Natural Language Processing**_ as a part of my final year
-  undergraduate research project
-  named _[Optimized Duplicate Question Detection in PCQA Platforms using Semantic Hashing](https://ieeexplore.ieee.org/document/9606030)_
-  . The work was published in
-  the _[10th Chapter of IEEE ICIAfS 2021 Conference held at Sri Lanka Technological Campus(SLTC), Sri Lanka](https://spsr.sltc.ac.lk/events/iciafs-2021/)_
-  .
-- 🌱 I’m currently learning and mastering _**Faiss, PyTorch, and React**_.
-- 📚 I've studied _**B.Eng. (Hons) Software Engineering at
-  the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_ which is affiliated with
-  the _[Informatics Institute of Technology, Sri Lanka](https://www.iit.ac.lk/) :sri_lanka:_.
-- 🏢 I'm currently employed as a _**Software Engineer at [WSO2](https://wso2.com/about/team/dehami-koswatte/)**_. I've
-  also had previously _completed my one-year mandatory internship in the same company_.
-- 👯 I’m looking to collaborate on _**Research-Based projects and Software meant to help other people**_. The goal of
-  collaborating is to improve my skills and help others which in turn would _make this :earth_asia: a better place_.
-- 🤔 I’m looking for help with the _**Development-Operations paradigm**_. _Especially, on Docker :whale: and
-  Kubernetes :wheel_of_dharma:_ since they would be a great addition to my arsenal :shield:.
-- 💬 Ask me about _**Angular, Java, and Python**_.
-- 📫 How to reach me: _**You can refer to the decorated connect with me 📫 section above**_.
-- 😄 Pronouns: _**Any suggestions would be welcome as long as suits :necktie: me 🤵...**_
-- ⚡ Fun fact: _**I've used to swim 🏊**_.
+- 🔭 Currently building production-grade IAM solutions at **[WSO2 IS](https://is.docs.wso2.com/en/latest/) & [Asgardeo](https://wso2.com/asgardeo/docs/)**
+- 💬 Ask me about **Java · Angular · Identity Protocols (OAuth2, OIDC, WS-Fed, WS-Trust)**
+- 🏅 [WSO2 Certified Identity Server Practitioner & Developer (V5)](https://certification.wso2.com/certificate/DEVMLY)
+- 🌍 Active contributor across **wso2**, **asgardeo**, and **wso2-extensions** GitHub orgs
 
-#### <i>:toolbox: Tools & Technologies I've Used:</i>
+---
 
-<div>
-  <p align="center">
-      <a href="https://www.java.com/en/" target="blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/></a>
-      <a href="https://www.python.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
-      <a href="https://dev.w3.org/html5/html-author/" target="blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a>
-      <a href="https://sass-lang.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="45"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
-      <a href="https://www.typescriptlang.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
-      <a href="https://ballerina.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/ballerinaio/ballerinaio-icon.svg" alt="ballerina" width="45" height="45"/></a>
-      <a href="https://spring.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/></a>
-      <a href="https://www.android.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="45" height="45"/></a>
-      <a href="https://jupyter.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="ipynb" width="45" height="45"/></a>
-      <a href="https://pytorch.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/></a>
-      <a href="https://www.tensorflow.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/></a>
-      <a href="https://nodejs.org/en/" target="blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="45" height="45"/></a>
-      <a href="https://angular.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/></a>
-      <a href="https://reactjs.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="45" height="45"/></a>
-      <a href="https://mysql.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="45"/></a>
-      <a href="https://mongodb.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></a>
-      <a href="https://jetbrains.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="45" height="45"/></a>
-      <a href="https://code.visualstudio.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/></a>
-      <a href="https://git-scm.com/doc" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-      <a href="https://github.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/></a>
-      <a href="https://www.jenkins.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/></a>
-      <a href="https://travis-ci.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="45" height="45"/></a>
-      <a href="https://www.docker.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="60"/></a>
-      <a href="https://kubernetes.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/></a>
-      <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bashshell" width="45" height="45"/></a>
-  </p>
+### 🔗 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dehami.deshan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/deshankoswatte)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/deshankoswatte)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshankoswatte)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11383375/deshan-koswatte)
+[![Website](https://img.shields.io/badge/Portfolio-0f4c75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deshankoswatte.github.io)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/deshankoswatte)
+
 </div>
 
 ---
 
-### 📝 Checkout My Blogs:
+### 🛠️ Tech Stack
 
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ballerina](https://img.shields.io/badge/Ballerina-20B6B0?style=flat-square&logoColor=white)
+
+**Frameworks & Tools**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**IAM & Protocols**
+
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logoColor=white)
+![WS-Trust](https://img.shields.io/badge/WS--Trust-004080?style=flat-square&logoColor=white)
+![WS-Federation](https://img.shields.io/badge/WS--Federation-004080?style=flat-square&logoColor=white)
+
+**Data & ML**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</div>
+
+---
+
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://deshankoswatte.medium.com/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
-- [Quick Start Guide — SDKMAN](https://deshankoswatte.medium.com/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
-- [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://deshankoswatte.medium.com/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
-- [Glimpse of the new WS-Federation is WSO2 Identity Server](https://deshankoswatte.medium.com/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
-- [Quick Test WS-Trust with WSO2 Identity Server](https://deshankoswatte.medium.com/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
+- [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Server](https://deshankoswatte.medium.com/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8)
+- [Quick Start Guide — SDKMAN](https://deshankoswatte.medium.com/quick-start-guide-sdkman-1ef445962745)
+- [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://deshankoswatte.medium.com/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233)
+- [Glimpse of the new WS-Federation in WSO2 Identity Server](https://deshankoswatte.medium.com/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063)
+- [Quick Test WS-Trust with WSO2 Identity Server](https://deshankoswatte.medium.com/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b)
 <!-- BLOG-POST-LIST:END -->
 
-#### <i>:rotating_light: Read all my medium blogs from <a href="https://medium.com/@deshankoswatte" target="blank"> here</a>.</i>
+➡️ [More on Medium →](https://medium.com/@deshankoswatte)
 
 ---
 
-### 📌 Extra Information:
+### 📊 GitHub Stats
 
-<!--<details>
-<summary><b><i>Please Expand to See Extra Information</i></b></summary>
-</details>-->
+<div align="center">
 
-#### <i>🏅 Certifications:</i>
+<img src="https://streak-stats.demolab.com?user=deshankoswatte&theme=transparent&hide_border=true&ring=00b4d8&fire=0f4c75&currStreakLabel=00b4d8&dates=58a6ff&stroke=00b4d8" width="55%" alt="GitHub Streak"/>
 
-- [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/DEVMLY)
-- [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/DEVMLY)
-
-#### <i>🎥 Latest Youtube Videos, 🎬 Screencasts, & 📺 Webinars:</i>
-
-- _🚧 Work in progress. Sorry for the inconvenience._
-
-#### <i>:label: Public Slides:</i>
-
-- _🚧 Work in progress. Sorry for the inconvenience._
-
----
-
-### ⚡ My GitHub Stats:
-
-<div> 
-  <p align="center">
-    <img height="180em" alt="deshankoswatte_github_stats" src="https://github-readme-stats.vercel.app/api?username=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img height="180em" alt="deshankoswatte_mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankoswatte&layout=compact&theme=gruvbox&hide_border=true" />
-  </p>
-  <details>
-    <summary>
-      <b><i>Please Expand to See Extra GitHub Stats</i></b>
-    </summary>
-    <p align="center">
-      <img alt="deshankoswatte_github_streak_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=deshankoswatte&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img alt="deshankoswatte_github_weekly_stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=gruvbox&hide_border=true" />
-    </p>
-  </details>
 </div>
 
-#### <i>:superhero_man: Visitors Count:</i>
+---
 
-![VisitorCount](https://profile-counter.glitch.me/{deshankoswatte}/count.svg)
+<div align="center">
 
-<!--
-**deshankoswatte/deshankoswatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1b6ca8,100:0f4c75&height=100&section=footer" width="100%"/>
 
-Here are some ideas to get you started:
-  👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
