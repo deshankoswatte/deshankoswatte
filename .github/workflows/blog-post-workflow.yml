@@ -15,6 +15,6 @@ jobs:
           feed_list: "https://medium.com/feed/@deshankoswatte"
           max_post_count: 5
           commit_message: Update README with the latest blog posts
-          committer_username: deshankoswatte
-          committer_email: dehami.deshan@gmail.com
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           gh_token: ${{ secrets.GH_TOKEN }}
