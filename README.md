@@ -78,11 +78,11 @@ My [IEEE-published research](https://ieeexplore.ieee.org/document/9606030) on du
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Server](https://deshankoswatte.medium.com/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8)
-- [Quick Start Guide — SDKMAN](https://deshankoswatte.medium.com/quick-start-guide-sdkman-1ef445962745)
-- [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://deshankoswatte.medium.com/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233)
-- [Glimpse of the new WS-Federation in WSO2 Identity Server](https://deshankoswatte.medium.com/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063)
-- [Quick Test WS-Trust with WSO2 Identity Server](https://deshankoswatte.medium.com/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b)
+- [Terminate Active User Sessions on User Role Change Events through the WSO2 Identity Sever](https://deshankoswatte.medium.com/terminate-active-user-sessions-on-user-role-change-events-through-the-wso2-identity-sever-2462cf46eff8?source=rss-56911829187b------2)
+- [Quick Start Guide — SDKMAN](https://deshankoswatte.medium.com/quick-start-guide-sdkman-1ef445962745?source=rss-56911829187b------2)
+- [How do I connect the WS-Trust connector of WSO2 Identity Server?](https://deshankoswatte.medium.com/how-do-i-connect-the-ws-trust-connector-of-wso2-identity-server-a5c03a5b8233?source=rss-56911829187b------2)
+- [Glimpse of the new WS-Federation is WSO2 Identity Server](https://deshankoswatte.medium.com/glimpse-of-the-new-ws-federation-is-wso2-identity-server-f85fcdf2b063?source=rss-56911829187b------2)
+- [Quick Test WS-Trust with WSO2 Identity Server](https://deshankoswatte.medium.com/quick-test-ws-trust-with-wso2-identity-server-f33e3b3ac59b?source=rss-56911829187b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on Medium →](https://medium.com/@deshankoswatte)
